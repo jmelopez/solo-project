@@ -1,0 +1,118 @@
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+.container-forms {
+	width: 1000px;
+	margin-top: 25px;
+	border: 3px solid black;
+}
+
+.container {
+	margin-top: 40px;
+}
+
+.form {
+	padding: 10px 30px;
+}
+
+.header {
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+
+.tag-heads {
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+.navbar {
+	height: 100px;
+	display: flex;
+}
+
+.navbar-nav {
+	margin-right: 70px;
+}
+
+.nav-item {
+	padding: 0px 20px;
+}
+
+.errors {
+	color: red;
+}
+
+i.fa {
+  font-size: 40px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.fa-star {
+	color: #ff93a3;
+}
+
+.fa:hover {
+	color: red;
+}
+
+.tags {
+	display: inline;
+}
+
+.between_post {
+	width: 75%;
+	border: none;
+}
+
+hr {
+	border: 5px solid #0c6efc;
+}
+
+.icon-btn {
+	border:none;
+	background: transparent;
+	
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+}
+
+.form-titles {
+	font-weight: bold;
+}
+
+.footer {
+	margin-top: 20px;
+}
+
+.list-group-item {
+	padding: 15px 10px;
+}
+
+.icon-div {
+	margin-top:10px;
+}
+
+a.nav-link:hover {
+	color: white;
+}
+
+.menu:hover {
+	background: #0c6efc;
+	border: 3px inset black;
+}
+
+.menu {
+	border: 3px outset #0c6efc;
+}
+
+a.nav-link {
+	font-weight: bold;
+	text-align: center;
+}
+
+
